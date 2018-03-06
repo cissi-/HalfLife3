@@ -1,2 +1,7 @@
-stuff
-more stuff
+#include <iostream> // std::pair
+
+#include "hello.h"
+
+int main (int argc, char* argv[]) {
+  std::out << "hello, World!
+}
